@@ -14,8 +14,9 @@ import toolsData from "@/assets/toolsData.mjs";
   title="效率工具"
   desc="开发生产力"
   footer="你有这么高速运转的机械进入中国，就看看下面的内容"
-  image="https://pic.efefee.cn/uploads/2024/02/27/65dd94d73650f.webp"
+  image="https://cdn.jsdelivr.net/gh/Nan-WenYuan/picx-images-hosting@master/Banner/File_7.png"
 />
 
 <!-- 工具数据 -->
+
 <LinkList :listData="toolsData" :showCount="false" />
